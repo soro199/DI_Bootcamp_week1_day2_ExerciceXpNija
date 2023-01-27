@@ -1,0 +1,85 @@
+
+section{
+    position: relative;
+    margin: 0 auto;
+    top: 30px;
+    padding: 0;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+#input{
+    margin: 10px;
+    display: block-inline;
+     border-radius:10px;
+     width: 80%;
+     padding:10px;
+     border:2px solid white;
+     background-color: rgba(128, 128, 128, 0.363);
+}
+
+.login{
+    display: inline-block;
+    position: absolute;
+    left: 20%;
+    background-color: rgba(180, 175, 175, 0.384);
+    text-align: center;
+    width: 300px;
+    margin: 10px auto;
+    padding: 20px;
+    box-shadow: 0 0 3px rgba(0,0,0,0);
+}
+
+.login label,
+.login span{
+    margin: 10px;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
+.login h1{
+    color: black;
+}
+
+.hello h1{
+    color: white;
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    background-color:  rgb(153, 35, 153); 
+    border: none;
+}
+
+.hello{
+    position: absolute;
+    left: 45%;
+    display: inline-block;
+    background-color: rgb(153, 35, 153);
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+    padding: 150px 20px 150px 20px;
+    box-shadow: 0 0 3px rgba(0,0,0,0);
+}
+
+#sociaux{
+    position: relative;
+	padding: 10px 20px;
+	text-decoration: none;
+	color: #fff;
+	font-size: 40px;
+}
+
+.bar{
+    width: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.reg{
+    margin: 0 auto;
+    border:1px solid black;
+    border-radius: 10px;
+}
